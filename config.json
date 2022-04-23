@@ -1,0 +1,10 @@
+{
+    "Token": "OTU4MzQ3MDYzMTgyMTA2NzQ2.YkMAQQ.sdzT_MwQcJPLXBJqjeTy1rLaXtA",
+    "Default Prefix": ".",
+    "Mysql": {
+        "host": "localhost",
+        "username": "dabu",
+        "password": "dabudabu",
+        "db": "python"
+    }
+}
